@@ -22,3 +22,5 @@ Thanks to the open source project license provided by [Jetbrains](https://www.je
 
 ## How to Feedback
 Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
+
+## Backup
